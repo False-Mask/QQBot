@@ -1,0 +1,6 @@
+.idea
+*.iml
+/resources/
+/test/
+/src/main/kotlin/com/redrock/team/config/Config.kt
+/src/main/resources/

@@ -1,0 +1,70 @@
+{
+    "troopMemberNumSeq": 12,
+    "list": [
+        {
+            "uin": 1103440754,
+            "nick": "Bravecalm",
+            "permission": "MEMBER",
+            "remark": "Bravecalm",
+            "nameCard": "",
+            "specialTitle": "",
+            "muteTimestamp": 1447936974,
+            "anonymousId": null,
+            "joinTimestamp": 1412897345,
+            "lastSpeakTimestamp": 1453979282,
+            "isOfficialBot": false
+        },
+        {
+            "uin": 1430195435,
+            "nick": "bot",
+            "permission": "OWNER",
+            "remark": "bot",
+            "nameCard": "",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1415403911,
+            "lastSpeakTimestamp": 1448281939,
+            "isOfficialBot": false
+        },
+        {
+            "uin": 1648783890,
+            "nick": "俊携菲手",
+            "permission": "MEMBER",
+            "remark": "俊携菲手",
+            "nameCard": "",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1415012021,
+            "lastSpeakTimestamp": 0,
+            "isOfficialBot": false
+        },
+        {
+            "uin": 1827816297,
+            "nick": "陳棋堯",
+            "permission": "MEMBER",
+            "remark": "陳棋堯",
+            "nameCard": "",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1415098420,
+            "lastSpeakTimestamp": 1596067020,
+            "isOfficialBot": false
+        },
+        {
+            "uin": 2821053367,
+            "nick": "•繁花^落尽街头&",
+            "permission": "ADMINISTRATOR",
+            "remark": "",
+            "nameCard": "帅哥",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1419595868,
+            "lastSpeakTimestamp": 1442120052,
+            "isOfficialBot": false
+        }
+    ]
+}

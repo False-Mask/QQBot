@@ -1,0 +1,109 @@
+{
+    "troopMemberNumSeq": 521,
+    "list": [
+        {
+            "uin": 168284632,
+            "nick": "😄",
+            "permission": "MEMBER",
+            "remark": "😄",
+            "nameCard": "",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1631341332,
+            "lastSpeakTimestamp": 1631341332,
+            "isOfficialBot": false
+        },
+        {
+            "uin": 1125586026,
+            "nick": "摆渡者",
+            "permission": "MEMBER",
+            "remark": "摆渡者",
+            "nameCard": "",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1631341332,
+            "lastSpeakTimestamp": 1631341332,
+            "isOfficialBot": false
+        },
+        {
+            "uin": 1430195435,
+            "nick": "bot",
+            "permission": "ADMINISTRATOR",
+            "remark": "bot",
+            "nameCard": "",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1631197730,
+            "lastSpeakTimestamp": 1633333619,
+            "isOfficialBot": false
+        },
+        {
+            "uin": 2332463403,
+            "nick": "天若有情天亦老",
+            "permission": "MEMBER",
+            "remark": "天若有情天亦老",
+            "nameCard": "",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1631341332,
+            "lastSpeakTimestamp": 1631341332,
+            "isOfficialBot": false
+        },
+        {
+            "uin": 2623036785,
+            "nick": "晓",
+            "permission": "OWNER",
+            "remark": "晓",
+            "nameCard": "",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1631197729,
+            "lastSpeakTimestamp": 1633333619,
+            "isOfficialBot": false
+        },
+        {
+            "uin": 3310571032,
+            "nick": "杞人忧天",
+            "permission": "MEMBER",
+            "remark": "杞人忧天",
+            "nameCard": "",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1631341332,
+            "lastSpeakTimestamp": 1631341332,
+            "isOfficialBot": false
+        },
+        {
+            "uin": 3420179889,
+            "nick": "bot2",
+            "permission": "MEMBER",
+            "remark": "bot2",
+            "nameCard": "",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1633312509,
+            "lastSpeakTimestamp": 1633313150,
+            "isOfficialBot": false
+        },
+        {
+            "uin": 3422541720,
+            "nick": "覆水难收 ζ",
+            "permission": "MEMBER",
+            "remark": "覆水难收 ζ",
+            "nameCard": "",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1631341332,
+            "lastSpeakTimestamp": 1631341332,
+            "isOfficialBot": false
+        }
+    ]
+}

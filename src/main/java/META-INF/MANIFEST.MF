@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Main-Class: com.redrock.team.MiraiKt
+Class-Path: guava-19.0.jar ktor-http-jvm-1.5.4.jar groovy-groovydoc-3.0.
+ 5.jar junit-4.13.jar junit-jupiter-engine-5.6.2.jar aopalliance-1.0.jar
+  atomicfu-common-0.14.1.jar ktor-io-jvm-1.5.4.jar testng-7.1.0.jar ant-
+ antlr-1.10.8.jar kotlinx-coroutines-core-jvm-1.5.0.jar bcprov-jdk15on-1
+ .64.jar groovy-3.0.5.jar log4j-api-2.14.1.jar guice-4.1.0-no_aop.jar op
+ entest4j-1.2.0.jar ktor-client-okhttp-jvm-1.5.4.jar groovy-sql-3.0.5.ja
+ r kotlinx-serialization-core-jvm-1.2.1.jar kotlinx-coroutines-io-0.1.16
+ .jar groovy-macro-3.0.5.jar okio-jvm-2.6.0.jar javax.inject-1.jar kotli
+ nx-io-0.1.16.jar javaparser-core-3.16.1.jar ant-junit-1.10.8.jar junit-
+ platform-commons-1.6.2.jar kotlinx-io-jvm-0.1.16.jar atomicfu-jvm-0.16.
+ 1.jar groovy-servlet-3.0.5.jar jcommander-1.72.jar groovy-test-3.0.5.ja
+ r groovy-docgenerator-3.0.5.jar mirai-core-utils-jvm-2.7.1-dev-1.jar gr
+ oovy-swing-3.0.5.jar groovy-cli-picocli-3.0.5.jar kotlin-reflect-1.5.10
+ .jar netty-all-4.1.63.Final.jar kotlinx-serialization-json-jvm-1.2.1.ja
+ r ktor-network-jvm-1.5.4.jar slf4j-api-1.7.30.jar junit-platform-launch
+ er-1.6.2.jar junit-platform-engine-1.6.2.jar groovy-templates-3.0.5.jar
+  qdox-1.12.1.jar groovy-nio-3.0.5.jar mirai-core-api-jvm-2.7.1-dev-1.ja
+ r kotlinx-coroutines-io-jvm-0.1.16.jar annotations-19.0.0.jar groovy-js
+ on-3.0.5.jar kotlin-stdlib-jdk8-1.5.10.jar ktor-utils-jvm-1.5.4.jar kot
+ linx-coroutines-jdk8-1.5.0.jar junit-jupiter-api-5.6.2.jar kotlin-stdli
+ b-1.5.30.jar jline-2.14.6.jar ant-1.10.8.jar ktor-http-cio-jvm-1.5.4.ja
+ r ktor-client-core-jvm-1.5.4.jar groovy-xml-3.0.5.jar ant-launcher-1.10
+ .8.jar okhttp-4.6.0.jar kotlinx-serialization-protobuf-jvm-1.2.1.jar gr
+ oovy-test-junit5-3.0.5.jar groovy-ant-3.0.5.jar groovy-console-3.0.5.ja
+ r hamcrest-core-1.3.jar groovy-jmx-3.0.5.jar kotlin-stdlib-jdk7-1.5.10.
+ jar groovy-datetime-3.0.5.jar groovy-astbuilder-3.0.5.jar kotlin-stdlib
+ -common-1.5.30.jar groovy-testng-3.0.5.jar picocli-4.4.0.jar groovy-gro
+ ovysh-3.0.5.jar groovy-jsr223-3.0.5.jar mirai-core-jvm-2.7.1-dev-1.jar 
+ kotlin-jvm-blocking-bridge-jvm-1.10.3.jar
+

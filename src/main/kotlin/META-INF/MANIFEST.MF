@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Main-Class: com.redrock.team.MiraiKt
+Class-Path: junit-platform-engine-1.6.2.jar kotlinx-serialization-protob
+ uf-jvm-1.2.1.jar atomicfu-jvm-0.16.1.jar javaparser-core-3.16.1.jar okh
+ ttp-4.6.0.jar testng-7.1.0.jar kotlinx-serialization-core-jvm-1.2.1.jar
+  junit-jupiter-api-5.6.2.jar kotlinx-io-jvm-0.1.16.jar kotlin-stdlib-co
+ mmon-1.5.30.jar groovy-macro-3.0.5.jar junit-jupiter-engine-5.6.2.jar k
+ tor-http-jvm-1.5.4.jar groovy-test-3.0.5.jar qdox-1.12.1.jar kotlin-jvm
+ -blocking-bridge-jvm-1.10.3.jar kotlin-reflect-1.5.10.jar kotlin-stdlib
+ -1.5.30.jar groovy-sql-3.0.5.jar groovy-test-junit5-3.0.5.jar junit-pla
+ tform-commons-1.6.2.jar groovy-jsr223-3.0.5.jar kotlinx-coroutines-io-j
+ vm-0.1.16.jar kotlinx-coroutines-jdk8-1.5.0.jar groovy-docgenerator-3.0
+ .5.jar groovy-ant-3.0.5.jar kotlin-stdlib-jdk7-1.5.10.jar javax.inject-
+ 1.jar log4j-api-2.14.1.jar mirai-core-jvm-2.7.1-dev-1.jar bcprov-jdk15o
+ n-1.64.jar kotlinx-io-0.1.16.jar aopalliance-1.0.jar kotlin-stdlib-jdk8
+ -1.5.10.jar guava-19.0.jar groovy-nio-3.0.5.jar mirai-core-utils-jvm-2.
+ 7.1-dev-1.jar groovy-groovydoc-3.0.5.jar groovy-3.0.5.jar groovy-astbui
+ lder-3.0.5.jar groovy-groovysh-3.0.5.jar groovy-json-3.0.5.jar jline-2.
+ 14.6.jar kotlinx-serialization-json-jvm-1.2.1.jar ktor-utils-jvm-1.5.4.
+ jar ktor-io-jvm-1.5.4.jar junit-4.13.jar ktor-client-core-jvm-1.5.4.jar
+  annotations-19.0.0.jar ant-1.10.8.jar groovy-templates-3.0.5.jar groov
+ y-testng-3.0.5.jar netty-all-4.1.63.Final.jar slf4j-api-1.7.30.jar groo
+ vy-servlet-3.0.5.jar groovy-jmx-3.0.5.jar kotlinx-coroutines-core-jvm-1
+ .5.0.jar ktor-client-okhttp-jvm-1.5.4.jar ant-junit-1.10.8.jar opentest
+ 4j-1.2.0.jar atomicfu-common-0.14.1.jar groovy-xml-3.0.5.jar groovy-swi
+ ng-3.0.5.jar picocli-4.4.0.jar groovy-cli-picocli-3.0.5.jar guice-4.1.0
+ -no_aop.jar ktor-network-jvm-1.5.4.jar ant-antlr-1.10.8.jar ant-launche
+ r-1.10.8.jar okio-jvm-2.6.0.jar jcommander-1.72.jar ktor-http-cio-jvm-1
+ .5.4.jar junit-platform-launcher-1.6.2.jar kotlinx-coroutines-io-0.1.16
+ .jar groovy-datetime-3.0.5.jar groovy-console-3.0.5.jar hamcrest-core-1
+ .3.jar mirai-core-api-jvm-2.7.1-dev-1.jar
+
