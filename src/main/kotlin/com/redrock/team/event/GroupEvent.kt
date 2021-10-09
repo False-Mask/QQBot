@@ -2,6 +2,7 @@ package com.redrock.team.event
 
 import com.redrock.team.config.*
 import com.redrock.team.ext.safeSend
+import com.redrock.team.ext.toImage
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.delay
@@ -16,6 +17,7 @@ import net.mamoe.mirai.event.events.GroupMessageEvent
 import net.mamoe.mirai.event.events.MessageEvent
 import net.mamoe.mirai.event.syncFromEvent
 import net.mamoe.mirai.message.data.*
+import java.io.File
 import java.lang.Exception
 
 /**
@@ -30,7 +32,23 @@ private var job: Job? = null
 
 fun groupMessageDslBuild(messageSubscribersBuilder: GroupMessageSubscribersBuilder) {
     messageSubscribersBuilder.apply {
-        atBot { botAt() }
+
+        val reply = newListeningFilter {
+            when(message.contentToString().replace("@1430195435 ", "")){
+                ""-> true
+                else->false
+            }
+        }
+
+        atBot().and(reply) reply {
+            val image = File(AT_PIC_DIRECTORY).list().random()
+            group.toImage("$AT_PIC_DIRECTORY/$image")
+        }
+
+        atBot().and(reply.not()) quoteReply {
+            botAtMessage.random()
+        }
+
         always {
             botReReadMute()
             botFixReply()

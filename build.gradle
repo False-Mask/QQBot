@@ -15,7 +15,7 @@ repositories {
 
 
 dependencies {
-    implementation 'net.mamoe:mirai-core:2.7.1-dev-1'
+    implementation 'net.mamoe:mirai-core:2.8.0-M1'
     implementation "org.jetbrains.kotlin:kotlin-stdlib"
     implementation 'org.codehaus.groovy:groovy-all:3.0.5'
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
